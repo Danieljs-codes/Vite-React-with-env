@@ -1,0 +1,4 @@
+VITE_supabaseUrl = https://dclaevazetcjjkrzczpc.supabase.co
+VITE_supabaseKey = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjbGFldmF6ZXRjamprcnpjenBjIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODMyOTIzNDQsImV4cCI6MTk5ODg2ODM0NH0.LGg0M-taoHgKtxCzr9owrb09epnPaO_Yfz6xVE54sIY
+
+# Rename to .env and fill in your own values I don't want Github to flag my repo and key as a security risk
